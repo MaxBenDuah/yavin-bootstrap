@@ -33,7 +33,7 @@ In order to customize this website, you need to install [Node.js](https://nodejs
 Go to the project directory
 
 ```bash
-  cd cyavin-bootstrap
+  cd yavin-bootstrap
 ```
 
 Install dependencies
